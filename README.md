@@ -7,4 +7,4 @@ Full-stack engineer. TypeScript/Next.js and .NET.
 
 And a few more that aren't ready to show yet.
 
-Elsewhere: [chrisriedt.com](https://chrisriedt.com) and [LinkedIn](https://www.linkedin.com/in/chris-riedt-239309426).
+Elsewhere: [chrisriedt.com](https://chrisriedt.com) and [LinkedIn](https://www.linkedin.com/in/chris-riedt).
