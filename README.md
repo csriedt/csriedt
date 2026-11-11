@@ -6,5 +6,3 @@ Full-stack engineer. TypeScript/Next.js and .NET.
 - [agentignore](https://github.com/csriedt/agentignore) - a hook-enforced ignore policy for AI coding agents.
 
 And a few more that aren't ready to show yet.
-
-Elsewhere: [chrisriedt.com](https://chrisriedt.com) and [LinkedIn](https://www.linkedin.com/in/chris-riedt).
